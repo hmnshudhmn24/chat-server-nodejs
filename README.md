@@ -1,6 +1,6 @@
 # Chat Server with WebSocket
 
-A real-time chat server using Node.js, Socket.io, and Redis for message persistence.
+A real-time chat server built with Node.js, Socket.io, and Redis. Supports public/private rooms, live messaging, typing indicators, and message persistence using Redis.
 
 ## Features
 
