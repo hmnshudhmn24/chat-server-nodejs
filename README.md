@@ -52,7 +52,3 @@ npm run dev
 - Join rooms using `joinRoom`
 - Send messages using `sendMessage`
 - Notify typing using `typing`
-
-## License
-
-MIT
